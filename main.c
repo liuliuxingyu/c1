@@ -24,6 +24,23 @@ int main(){
 
         }
         if(code==2){
+            printf("jinruquqiangongneng,qingshuruyaoquchudejine:\n");
+            int qu;
+            scanf("%d",&qu);
+            if(qian>=qu){
+                printf("quqianchenggong,dianjihuichujixu\n");
+                 char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
+
+            }
+            else{
+                printf("yuebuzu,dianjihuichejixu\n");
+                  char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
+
+            }
 
         }
         if(code==3){
