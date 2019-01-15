@@ -28,6 +28,7 @@ int main(){
             int qu;
             scanf("%d",&qu);
             if(qian>=qu){
+                qian-=qu;
                 printf("quqianchenggong,dianjihuichujixu\n");
                  char x;
             scanf("%c",&x);
@@ -44,6 +45,8 @@ int main(){
 
         }
         if(code==3){
+            
+           
 
         }
         if(code==4){
